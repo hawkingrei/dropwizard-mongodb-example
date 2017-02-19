@@ -1,0 +1,1 @@
+# dropwizard-mongodb-example
